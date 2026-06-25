@@ -66,10 +66,7 @@ Computer Science Engineering student specializing in Artificial Intelligence, Da
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- Operating Systems
 - Database Management Systems
-- Computer Networks
-- Software Engineering
 - REST APIs
 - Git & GitHub
 - SQL
